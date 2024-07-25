@@ -1,52 +1,4 @@
-/*#root {*/
-/*  max-width: 1280px;*/
-/*  margin: 0 auto;*/
-/*  padding: 2rem;*/
-/*  text-align: center;*/
-/*}*/
-/*.sidebar {*/
-/*  background-color: #f0f0f0; !* light gray background *!*/
-/*  width: 250px;*/
-/*  padding: 20px;*/
-/*  box-sizing: border-box;*/
-/*  position: fixed;*/
-/*  top: 0;*/
-/*  left: 0;*/
-/*  height: 100%;*/
-/*  display: flex;*/
-/*  flex-direction: column;*/
-/*}*/
-/*.motorButton {*/
-/*  background-color: green;*/
-
-/*}*/
-
-/*.headers {*/
-/*  padding: 10px;*/
-/*}*/
-
-/*.title {*/
-/*  font-weight: bold;*/
-/*  margin-bottom: 10px;*/
-/*}*/
-/*!*.control-buttons{*!*/
-/*!*  text-align: center;*!*/
-/*!*  position: relative;*!*/
-/*!*}*!*/
-
-
-/*.controller{*/
-/*  position: fixed;*/
-/*  padding: 20px;*/
-/*  align-content: flex-start;*/
-/*  text-align: left;*/
-/*}*/
-
-/*!*.motorSlider{*!*/
-/*!*  width: 70%;*!*/
-/*!*}*!*/
-/* 
-.App {
+.MachineControl {
   display: flex;
   height: 100vh;
   margin: 0;
@@ -110,7 +62,7 @@
 }
 
 .controll-buttons {
-  margin-top: auto; 
+  margin-top: auto; /* Push buttons to the bottom */
   display: flex;
   flex-direction: column;
   gap: 10px;
@@ -131,16 +83,4 @@
 .button-inactive {
   background-color: red;
   color: white;
-} */
-
-
-
-
-body {
-  margin: 0;
-  background-color: #ffffff;
-}
-
-.h-100 {
-  margin-top:100px;
 }
