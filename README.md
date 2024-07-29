@@ -1,9 +1,9 @@
 # Slot Die Coating Control System
 
 This project demonstrates a Slot Die Coating Control System that integrates a Python backend, a React frontend, a Flask server, and an Arduino for hardware control. The system includes a login feature to manage user access.
-![Control System](https://github.com/aaronwork1205/slot-die-coating-ui/blob/main/readmeAsset/landingpage.png)
-![Control System](https://github.com/aaronwork1205/slot-die-coating-ui/blob/main/readmeAsset/login.png)
-![Control System](https://github.com/aaronwork1205/slot-die-coating-ui/blob/main/readmeAsset/register.png)
+![Control System](https://github.com/aaronwork1205/slot-die-coating-ui/blob/main/readmeAsset/landingpage.jpg)
+![Control System](https://github.com/aaronwork1205/slot-die-coating-ui/blob/main/readmeAsset/login.jpg)
+![Control System](https://github.com/aaronwork1205/slot-die-coating-ui/blob/main/readmeAsset/register.jpg)
 ![Control System](https://github.com/aaronwork1205/slot-die-coating-ui/blob/main/readmeAsset/control.png)
 
 ## Table of Contents
